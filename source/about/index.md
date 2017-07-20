@@ -5,11 +5,11 @@ tags: 我
 categories: "我"
 layout: single-column
 ---
-## 关于
-#### <i class="fa-home"></i> Switch to another
-#### <i class="fa-home"></i> Switch to another
-#### <i class="fa-home"></i> Switch to another
-#### <i class="fa-home"></i> Switch to another
-#### <i class="fa-home"></i> Switch to another
-#### <i class="fa-home"></i> Switch to another
-#### <i class="fa-home"></i> Switch to another
+***
+#### 基本信息
+姓名: 孟德鑫
+邮箱: mengdexin_work@163.com
+毕业院校: 南京邮电大学
+个人简介: 目前在美团点评任后端Java开发工程师
+CSDN博客: http://blog.csdn.net/bingbing8219 (已不更新)
+***
