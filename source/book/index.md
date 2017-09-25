@@ -19,6 +19,9 @@ layout: single-column
 ##### [Java虚拟机规范(JavaSE8/JavaSE7)](https://book.douban.com/subject/26418340/)---Have
 ##### [Effective Java 中文版](https://book.douban.com/subject/3360807/)---Doing
 ##### [重构:改善既有代码的设计](https://book.douban.com/subject/4262627/)---Doing
+##### [Spring MVC学习指南](https://book.douban.com/subject/26411275/)---Done
+##### [深入浅出MyBatis技术原理与实战](https://book.douban.com/subject/26858114/)---Doing
+##### [代码的未来](https://book.douban.com/subject/24536403/)---Doing
 ##### [性能之巅](https://book.douban.com/subject/26586598/)---Have
 ##### [Redis实战](https://book.douban.com/subject/26612779/)---Have
 ##### [高性能MySQL](https://book.douban.com/subject/23008813/)---Have
@@ -28,6 +31,7 @@ layout: single-column
 ##### [Redis设计与实现(黄建宏)](https://book.douban.com/subject/25900156/)---Have
 ##### [深入剖析Tomcat](https://book.douban.com/subject/10426640/)---Have
 ##### [Maven实战(许晓斌)](https://book.douban.com/subject/5345682/)---Have
+##### [深入理解Nginx 模块开发与架构解析](https://book.douban.com/subject/22793675/)---Have
 ***
 #### 科技
 ##### [浪潮之巅(吴军)](https://book.douban.com/subject/6709783/)---Have

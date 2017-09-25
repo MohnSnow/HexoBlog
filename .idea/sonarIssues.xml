@@ -3,6 +3,11 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/.deploy_git/archives/2017/05/index.html">
           <value>
             <set />
@@ -94,6 +99,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/source/_posts/17Guava初探.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/source/_posts/18从Paxos到Zookeeper分布式一致性原理与实践.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/source/_posts/19一些专业术语解析.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/source/_posts/20一致性哈希算法.md">
           <value>
             <set />
           </value>
@@ -258,6 +278,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/camera/JavacvCameraTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/collections/ArrayTest.java">
           <value>
             <set />
@@ -319,6 +344,36 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/thread/atom/AtomicIntegerCompareTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ServerTypeDemo/jason-account-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ServerTypeDemo/jason-account-web/src/main/resources/config/servlet/servlet-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ServerTypeDemo/jason-account-web/src/main/resources/config/spring.local/appcontext-core.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ServerTypeDemo/jason-account-web/src/main/resources/log4j.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ServerTypeDemo/jason-account-web/src/main/webapp/WEB-INF/pages/common/base.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/ServerTypeDemo/jason-account-web/src/main/webapp/WEB-INF/web.xml">
           <value>
             <set />
           </value>
@@ -613,6 +668,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/account-monitor/account-monitor-service/src/main/java/com/dianping/account/controller/PushController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/account-monitor/account-monitor-service/src/main/java/com/dianping/account/monitor/elasticSearch/ESClient.java">
           <value>
             <set />
@@ -634,6 +694,31 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/workspace/account-monitor/account-monitor-service/src/main/java/com/dianping/account/monitor/service/AccountMonitorServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-monitor/account-monitor-service/src/main/java/com/dianping/account/monitor/service/impl/alarm/AlarmThread.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-monitor/account-monitor-service/src/main/java/com/dianping/account/monitor/service/impl/alarm/LoginAlarmService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-monitor/account-monitor-service/src/main/java/com/dianping/account/monitor/service/impl/alarm/MessageAlarmService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-monitor/account-monitor-service/src/main/java/com/dianping/account/monitor/service/impl/alarm/enums/WarnEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-monitor/account-monitor-service/src/main/java/com/dianping/account/monitor/utils/AccountPushUtil.java">
           <value>
             <set />
           </value>
@@ -708,7 +793,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/rhino/CaptchaBlockServiceStub.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/rhino/CaptchaServiceStub.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/account-web/src/main/resources/config/spring/local/appcontext-client.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/resources/config/spring/local/appcontext-service.xml">
           <value>
             <set />
           </value>
@@ -719,6 +819,201 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/workspace/account-web/src/main/resources/log4j2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/abTest/regAMobile.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/loginprompt.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/java/com/jason/account/web/GeneratorSqlmap/GeneratorSqlmapMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/java/com/jason/account/web/controller/BaseController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/java/com/jason/account/web/controller/LoginController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/java/com/jason/account/web/controller/ViewController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/java/com/jason/account/web/entity/Response.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/java/com/jason/account/web/entity/StudentEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/java/com/jason/account/web/entity/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/java/com/jason/account/web/entity/UserAccount.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/java/com/jason/account/web/mapper/StudentMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/java/com/jason/account/web/mapper/StudentMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/java/com/jason/account/web/maps/StudentMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/resources/config/mybatis/SqlMapConfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/resources/config/mybatis/generatorConfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/resources/config/properties/db.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/resources/config/servlet/servlet-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/resources/config/spring.local/appcontext-dao.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/resources/config/spring.local/appcontext-mybatis.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/resources/config/spring.local/appcontext-service.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/resources/config/spring.local/appcontext-transaction.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/resources/log4j.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/webapp/WEB-INF/index.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/webapp/WEB-INF/pages/common/base.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/webapp/WEB-INF/pages/common/header.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/webapp/WEB-INF/pages/common/navigation.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/webapp/WEB-INF/pages/ftl/login.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/webapp/WEB-INF/template/sbadmin2/pages/blank.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/webapp/assets/ftl/common/framework.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/webapp/assets/ftl/controller/login.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/webapp/assets/js/controller/login.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/webapp/assets/template/sbadmin2/pages/blank.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/main/webapp/index.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/test/java/com/jason/account/web/AbstractTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/jason-account-web/src/test/java/com/jason/account/web/maps/StudentMapperTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/lion/lion-client/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mapi-login-web/src/main/java/com/dianping/mobile/api/login/rhino/CaptchaBlockServiceStub.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mapi-login-web/src/main/java/com/dianping/mobile/api/login/rhino/CaptchaServiceStub.java">
           <value>
             <set />
           </value>
@@ -763,6 +1058,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/java/com/dianping/mobile/account/web/rhino/CaptchaBlockServiceStub.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/java/com/dianping/mobile/account/web/util/ThirdPartUtil.java">
           <value>
             <set />
@@ -784,6 +1084,16 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/workspace/mobile-oss-management-web/src/main/java/com/dianping/mobileossweb/web/action/account/monitor/LoginMonitorAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-oss-management-web/src/main/java/com/dianping/mobileossweb/web/action/account/monitor/MessageMonitorAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-oss-management-web/src/main/java/com/dianping/mobileossweb/web/action/account/monitor/RegisterMonitorAction.java">
           <value>
             <set />
           </value>
@@ -859,6 +1169,66 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/workspace/mobile-oss-management-web/src/main/webapp/WEB-INF/pages/account/registerInterfaceMonitor.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/rhino/rhino-web/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/rhino/rhino-web/src/main/webapp/app/src/page/dependency/dep.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/rhino/rhino-web/src/main/webapp/app/src/page/fault/createFault.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/rhino/rhino-web/src/main/webapp/app/src/page/home/home.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/sms-rtmonitor-web/sms-rtmonitor-web/src/main/webapp/assets/ftl/controller/Channel.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/sms-rtmonitor-web/sms-rtmonitor-web/src/main/webapp/assets/ftl/controller/Operator.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/sms-rtmonitor-web/sms-rtmonitor-web/src/main/webapp/assets/ftl/controller/Overview.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/sms-rtmonitor-web/sms-rtmonitor-web/src/main/webapp/assets/js/controller/Info.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/pom.xml">
           <value>
             <set />
           </value>
@@ -949,6 +1319,11 @@
           </value>
         </entry>
         <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
           <value>
             <set />
           </value>
