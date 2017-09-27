@@ -713,6 +713,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/account-monitor/account-monitor-service/src/main/java/com/dianping/account/monitor/service/impl/alarm/ModifyAlarmService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/account-monitor/account-monitor-service/src/main/java/com/dianping/account/monitor/service/impl/alarm/enums/WarnEnum.java">
           <value>
             <set />
@@ -753,6 +758,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/action/ajax/CaptchaAuthAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/action/ajax/CaptchaCheckAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/action/ajax/CaptchaShowAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/action/ajax/MobileFastLoginAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/action/ajax/MobileRegNewAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/action/ajax/MobileVerifySendAjaxAction.java">
           <value>
             <set />
@@ -773,12 +803,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/action/ajax/modifymobile/ModifyMobileConfirmAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/action/ajax/pwdLogin/PasswordLoginAjaxAction.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/action/ajax/scanlogin/QueryQRCodeScanAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/action/setup/EmailModifyS5Action.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/action/setup/PasswordModifyAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/action/thirdpart/ThirdPartBindAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/action/thirdpart/ThirdPartLoginAction.java">
           <value>
             <set />
           </value>
@@ -799,6 +854,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/rhino/CaptchaServiceStub.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/java/com/dianping/accountweb/web/util/MonitorUtil.java">
           <value>
             <set />
           </value>
@@ -1018,6 +1078,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/mapi-login-web/src/main/java/com/dianping/mobile/api/login/utils/MonitorUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/mapi-login-web/src/main/resources/config/dict/dict-exception.xml">
           <value>
             <set />
@@ -1028,12 +1093,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/java/com/dianping/mobile/account/web/action/AppSsoBackAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/java/com/dianping/mobile/account/web/action/AppThirdPartLoginAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/java/com/dianping/mobile/account/web/action/ResetPasswordOperationAction.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/java/com/dianping/mobile/account/web/action/ThirdPartLoginAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/java/com/dianping/mobile/account/web/action/ajax/MobileVerifySendAjaxAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/java/com/dianping/mobile/account/web/action/ajax/PasswordLoginAjaxAction.java">
           <value>
             <set />
           </value>
@@ -1053,6 +1138,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/java/com/dianping/mobile/account/web/action/thirdpart/AppThirdPartUnionLoginAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/java/com/dianping/mobile/account/web/cache/CacheKeyNamespace.java">
           <value>
             <set />
@@ -1063,7 +1153,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/java/com/dianping/mobile/account/web/util/MonitorUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/java/com/dianping/mobile/account/web/util/ThirdPartUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/resources/config/dict/dict-exception.xml">
           <value>
             <set />
           </value>
@@ -1233,12 +1333,102 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/main/java/com.jason.standard.web/controller/interceptor/CookieInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/main/java/com.jason.standard.web/controller/interceptor/PermissionInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/main/java/com.jason.standard.web/dao/UserDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/main/java/com.jason.standard.web/entity/UserEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/main/java/com.jason.standard.web/service/UserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/main/java/com.jason.standard.web/service/impl/UserServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/main/java/com.jason.standard.web/service/impl/UserServiceImplTest.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/main/java/com.jason.standard.web/service/impl/UserServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/main/resources/jdbc.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/main/resources/mybatis-mapper/user-mapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/main/resources/spring/appcontext-core.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/main/resources/spring/springmvc-context.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/main/webapp/WEB-INF/web.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/test/com.jason.standard.web/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/test/com.jason.standard.web/service/UserServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/test/java/com.jason.standard.web/BaseTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/standard-web/src/test/java/com.jason.standard.web/service/UserServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/thirdlogin-wxqq-web/pom.xml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$USER_HOME$/workspace/thirdlogin-wxqq-web/src/main/java/com/dianping/mobile/bonus/interceptor/LoginInterceptor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/thirdlogin-wxqq-web/src/main/java/com/dianping/mobile/bonus/util/MonitorUtil.java">
           <value>
             <set />
           </value>

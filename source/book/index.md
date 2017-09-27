@@ -13,6 +13,7 @@ layout: single-column
 ##### [Java编程思想(Thinking in Java)](https://book.douban.com/subject/1313042/)---Done
 ##### [深入理解Java虚拟机(周志明)](https://book.douban.com/subject/24722612/)---Done
 ##### [Java并发编程实战](https://book.douban.com/subject/10484692/)---Doing
+##### [Java技术手册](https://book.douban.com/subject/26674131/)---Done
 ##### [Java并发编程的艺术](https://book.douban.com/subject/26591326/)---Doing
 ##### [Java性能优化权威指南](https://book.douban.com/subject/25828043/)---Doing
 ##### [Java程序员修炼之道](https://book.douban.com/subject/24841235/)---Doing
