@@ -9,18 +9,20 @@ layout: single-column
 #### 技术
 ##### [鸟哥的linux私房菜(基础学习篇)](https://book.douban.com/subject/4889838/)---Done
 ##### [大型网站技术架构(李智慧)](https://book.douban.com/subject/25723064/)---Done
+##### [分布式Java应用基础与实践(林昊)](https://book.douban.com/subject/4848587/)---Done
 ##### [Java核心技术(卷一)](https://book.douban.com/subject/25762168/)---Done
 ##### [Java编程思想(Thinking in Java)](https://book.douban.com/subject/1313042/)---Done
 ##### [深入理解Java虚拟机(周志明)](https://book.douban.com/subject/24722612/)---Done
-##### [Java并发编程实战](https://book.douban.com/subject/10484692/)---Doing
 ##### [Java技术手册](https://book.douban.com/subject/26674131/)---Done
+##### [Spring MVC学习指南](https://book.douban.com/subject/26411275/)---Done
 ##### [Java并发编程的艺术](https://book.douban.com/subject/26591326/)---Doing
+##### [大型网站系统与Java中间件实战(曾贤杰)](https://book.douban.com/subject/25867042/)---Doing
+##### [Java并发编程实战](https://book.douban.com/subject/10484692/)---Doing
 ##### [Java性能优化权威指南](https://book.douban.com/subject/25828043/)---Doing
 ##### [Java程序员修炼之道](https://book.douban.com/subject/24841235/)---Doing
 ##### [Java虚拟机规范(JavaSE8/JavaSE7)](https://book.douban.com/subject/26418340/)---Have
 ##### [Effective Java 中文版](https://book.douban.com/subject/3360807/)---Doing
 ##### [重构:改善既有代码的设计](https://book.douban.com/subject/4262627/)---Doing
-##### [Spring MVC学习指南](https://book.douban.com/subject/26411275/)---Done
 ##### [深入浅出MyBatis技术原理与实战](https://book.douban.com/subject/26858114/)---Doing
 ##### [代码的未来](https://book.douban.com/subject/24536403/)---Doing
 ##### [性能之巅](https://book.douban.com/subject/26586598/)---Have
@@ -33,6 +35,8 @@ layout: single-column
 ##### [深入剖析Tomcat](https://book.douban.com/subject/10426640/)---Have
 ##### [Maven实战(许晓斌)](https://book.douban.com/subject/5345682/)---Have
 ##### [深入理解Nginx 模块开发与架构解析](https://book.douban.com/subject/22793675/)---Have
+##### [Netty权威指南](https://book.douban.com/subject/25897245/)---Have
+##### [Netty实战](https://book.douban.com/subject/27038538/)---Have
 ***
 #### 科技
 ##### [浪潮之巅(吴军)](https://book.douban.com/subject/6709783/)---Have

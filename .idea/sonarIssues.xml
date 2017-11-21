@@ -128,6 +128,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/source/_posts/23RPC框架学习.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/source/_posts/24大型网站系统与Java中间件实战.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/source/_posts/25高并发服务设计——缓存.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/source/_posts/26Java面试题.md">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/source/_posts/3HashMap的循环方式性能对比.md">
           <value>
             <set />
@@ -288,6 +308,96 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/IO/BIO/Client.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/IO/BIO/ServerBetter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/IO/BIO/ServerHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/IO/BIO/ServerNormal.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/IO/BIO/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/IO/BIOTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/IO/Calculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/IO/IOTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/IO/NIO/Client.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/IO/NIO/ClientHandle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/IO/NIO/Server.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/IO/NIO/ServerHandle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/IO/NIO/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/JavaStandard/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/JavaStandard/ValueTansfer/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/JavaStandard/ValueTansfer/TestMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/Serializable/SerializableTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/Serializable/UserInfo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/camera/JavacvCameraTest.java">
           <value>
             <set />
@@ -299,6 +409,16 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/collections/MainCollection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/collections/Map/MainTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/JavaStudy/src/main/java/com/meng/Jason/collections/Map/MapKey.java">
           <value>
             <set />
           </value>
@@ -618,6 +738,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/account-main/account-server/src/test/java/com/dianping/account/test/service/UserAccountServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/account-monitor/account-monitor-api/pom.xml">
           <value>
             <set />
@@ -898,7 +1023,192 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/closethirdwindow.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/emailregTobindmobile.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/errorAbnormalStatus.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/iframelogin.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/iframeloginWithoutQR.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/iframeregister.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/login.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/loginbindmobile.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/loginprompt.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/pwdloginbindmobile.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/register.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/resetpassword.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/resetpasswordOperation.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/accountSetup.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/bindAndSync.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/emailActive.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/emailVerify.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/mobileBind.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/mobileBindResult.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/modifyEmailMobile.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/modifyEmailS1.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/modifyEmailS3.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/modifyEmailS5.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/modifyMobileES1.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/modifyMobileES2.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/modifyMobileS1.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/modifyMobileS2.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/modifyMobileS3.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/modifySuccess.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/setup/passwordModify.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/account-web/src/main/webapp/WEB-INF/pages/thirdpartloginbindmobile.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/avatar-cache/avatar-cache/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/avatar-cache/avatar-cache/pom.xml.versionsBackup">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/avatar-cache/avatar-cache/src/main/java/com/dianping/avatar/cache/CacheKey.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/avatar-cache/avatar-cache/src/main/java/com/dianping/avatar/cache/annotation/Cache.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/dubbo/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/dubbo/hessian-lite/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/dubbo/hessian-lite/src/main/java/com/alibaba/com/caucho/hessian/HessianException.java">
           <value>
             <set />
           </value>
@@ -1178,7 +1488,262 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/resources/config/scrum/urlrewrite.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/resources/config/spring/local/appcontext-client.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/bitmatrix.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/bitmatrixerrorrpage.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/choosecountry.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/msgpush.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/abnormalStatus.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/accountselect.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/appbind.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/applogin.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/applogin_v1.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/applogin_v2.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/appregister.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/appthirdaddinfo.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/appwebbridge.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/bind.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/bindmobile.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/bindmobilebeforelogin.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/blockStatus.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/callNativeLogin.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/ccheck.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/errorModifyPassword.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/errorScanLogin.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/errorThaw.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/login.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/mcheck.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/messagelogin.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/mobileVoiceLogin.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/mobilelogin.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/mobilequickreg.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/modifymobile/errorModifyMobile.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/modifymobile/modifyMobileVerifyNew.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/modifymobile/modifyMobileVerifyOld.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/modifymobile/modifyMobileVerifySelect.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/modifymobile/modifymobile.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/modifypassword.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/passwordlogin.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/remotelogin.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/resetpassword.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/scanlogin.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/tapplogin.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/tapplogin_v1.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/thirdUnionLoginBindMobile.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/thirdaddinfo.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/thirdsetup.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/upgradeVersion.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/valid-identity.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/valid-safety.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/new/valid-select.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/qqbindactivity.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/resetpasswordoperation.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/mobile-account-web/src/main/webapp/WEB-INF/pages/spreadreg.ftl">
           <value>
             <set />
           </value>
@@ -1304,6 +1869,16 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/workspace/rhino/rhino-web/src/main/webapp/app/src/page/home/home.vue">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/smart/smart-mvc/src/main/java/com/smart/mvc/enums/TrueFalseEnum.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspace/smart/smart-static/pom.xml">
           <value>
             <set />
           </value>
