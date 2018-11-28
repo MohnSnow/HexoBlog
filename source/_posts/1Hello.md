@@ -21,7 +21,7 @@ toc: true
 1. [github](https://github.com/)
 2. [git](https://git-scm.com/)
 3. [hexo](https://hexo.io/)
-4. [maupassant主题](https://github.com/tufu9441/maupassant-hexo.git themes/maupassant)
+4. [maupassant主题](https://github.com/tufu9441/maupassant-hexo.git)
 5. [markdown](http://wowubuntu.com/markdown/index.html)
 
 #### 三、搭建博客的参考文档:

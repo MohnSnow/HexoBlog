@@ -20,3 +20,9 @@ git rm -r --cached .
 git add .
 git commit -m 'update .gitignore'
 ```
+
+新的项目需要配置一下,否则不会计入贡献
+```
+ git config --global user.name "MohnSnow"
+ git config --global user.email "mengdexin_work@163.com"
+```
