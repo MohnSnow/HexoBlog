@@ -37,6 +37,10 @@ layout: single-column
 ##### [深入理解Nginx 模块开发与架构解析](https://book.douban.com/subject/22793675/)---Have
 ##### [Netty权威指南](https://book.douban.com/subject/25897245/)---Have
 ##### [Netty实战](https://book.douban.com/subject/27038538/)---Have
+##### [JavaEE开发的颠覆者 Spring Boot实战](https://book.douban.com/subject/26762595/)---Doing
+##### [深入理解Elastic Search](https://book.douban.com/subject/26733541/)---Doing
+##### [ElasticSearch服务器开发](https://book.douban.com/subject/26318087/)---Doing
+##### [改变未来的九大算法](https://book.douban.com/subject/24529132/)---Doing
 ***
 #### 科技
 ##### [浪潮之巅(吴军)](https://book.douban.com/subject/6709783/)---Have
@@ -50,6 +54,7 @@ layout: single-column
 ##### [人类简史(尤瓦尔·赫拉利)](https://book.douban.com/subject/25985021/)---Doing
 ##### [未来简史(尤瓦尔·赫拉利)](https://book.douban.com/subject/26943161/)---Doing
 ##### [三体(刘慈欣)](https://book.douban.com/subject/2567698/)---Doing
+##### [枪炮、病菌与钢铁(贾雷德·戴蒙德 )](https://book.douban.com/subject/1813841/)---Doing
 ***
 #### 推荐电影:IMBD上面很火的电影大家基本都看过,推荐一些相对小众的电影
 ##### [当爱来临的时候](https://movie.douban.com/subject/4304212/)(原来，我喜欢阳光的感觉.)
@@ -58,4 +63,6 @@ layout: single-column
 ##### [国富论(亚当.斯密)](https://book.douban.com/subject/1261560/)
 ***
 #### other
-ftp://ftp1.linuxidc.com ftp1.linuxidc.com www.linuxidc.com
+ftp://ftp1.linuxidc.com
+ftp1.linuxidc.com
+www.linuxidc.com
