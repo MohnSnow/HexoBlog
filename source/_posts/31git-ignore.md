@@ -1,5 +1,5 @@
 ---
-title: 31git ignore
+title: git ignore 文件解析
 date: 2018-08-30 17:42:04
 tags:
 ---
