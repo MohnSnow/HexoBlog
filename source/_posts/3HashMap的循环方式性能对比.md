@@ -5,6 +5,8 @@ tags: Java 对比
 categories: "Java"
 toc: true
 ---
+前段时间在代码重构时候发现有几部分貌似有问题的代码，摘录出来分析一下。
+<!--more-->
 ### 一、缘由
 代码重构过程中发现许多这样的代码:
 ```
@@ -14,7 +16,6 @@ for (Movie movie : showMap.keySet()) {
     .............
 }
 ```
-<!--more-->
 ### 二、两种循环方式的实测数据
 ```
 package com.meng.Jason.collections;
