@@ -1,5 +1,5 @@
 ---
-title: 30IntegerCache ByteCache CharacterCache LongCache ShortCache
+title: IntegerCache ByteCache CharacterCache LongCache ShortCache
 date: 2018-08-30 11:25:56
 tags:
 ---

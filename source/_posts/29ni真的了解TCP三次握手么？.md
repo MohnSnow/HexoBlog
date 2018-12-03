@@ -1,5 +1,5 @@
 ---
-title: 29ni真的了解TCP三次握手么？
+title: ni真的了解TCP三次握手么？
 date: 2018-07-13 10:27:40
 tags:
 ---

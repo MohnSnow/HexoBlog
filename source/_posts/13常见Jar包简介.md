@@ -5,14 +5,22 @@ tags: Java
 categories: "Java"
 ---
 ```
-了解一些Jar包的功能,分析部分类
+了解一些Jar包的功能,分析部分类的功能
 ```
 #### rt.jar
-##### package java.util;
+- java.util;
 
 
 
 
 #### javax.servlet:servlet-api
-1. http://tomcat.apache.org/tomcat-5.5-doc/servletapi/index.html
-2.
+- http://tomcat.apache.org/tomcat-5.5-doc/servletapi/index.html
+
+#### commons-lang
+```
+<dependency>
+            <groupId>commons-lang</groupId>
+            <artifactId>commons-lang</artifactId>
+            <version>3.8.1</version>
+        </dependency>
+```

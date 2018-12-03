@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../poi-mainflow-relation/poi-mainflow-relation-api/src/main/java/com/dianping/poi/mainflow/relation/api/dto/PoiRelationRawInfoDTO.java" line="21" />
+    <bookmark url="file://$PROJECT_DIR$/../poi-mainflow-relation/poi-mainflow-relation-api/src/main/java/com/dianping/poi/mainflow/relation/api/dto/PoiRelationRawInfoDTO.java" description="private String src;" line="24" />
+    <bookmark url="file://$PROJECT_DIR$/../poi-mainflow-relation/poi-mainflow-relation-api/src/main/java/com/dianping/poi/mainflow/relation/api/dto/PoiRelationRawInfoDTO.java" description="private String dest;" line="25" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="01d44daf-b19f-48f4-8151-2fec8f2f9142" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/FrameMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/LombokMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/entity/UserLombokEntity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaStudy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaStudy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/MainTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.deploy_git" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/2016/12/09/1Hello/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2016/12/09/1Hello/index.html" afterDir="false" />
@@ -70,7 +83,6 @@
       <change beforePath="$PROJECT_DIR$/public/categories/职业规划/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/职业规划/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/计算机网络/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/计算机网络/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/面试/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/面试/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/Book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Book/index.html" afterDir="false" />
@@ -90,16 +102,22 @@
       <change beforePath="$PROJECT_DIR$/public/tags/缓存-架构/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/缓存-架构/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/计算机网络/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/计算机网络/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/面试-Java/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/面试-Java/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2HelloMarkdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2HelloMarkdown.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/13常见Jar包简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/13常见Jar包简介.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/26Java面试题.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/26Java面试题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/29ni真的了解TCP三次握手么？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/29ni真的了解TCP三次握手么？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/30IntegerCache-ByteCache-CharacterCache-LongCache-ShortCache.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/30IntegerCache-ByteCache-CharacterCache-LongCache-ShortCache.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/32java-web会话管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/32java-web会话管理.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/5技术框架入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/5技术框架入门.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/source/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/6Paxos算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/6Paxos算法.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/maupassant" beforeDir="false" afterPath="$PROJECT_DIR$/themes/maupassant" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/maupassant/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/maupassant/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jason-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jason-web/pom.xml" afterDir="false" />
     </list>
     <ignored path="hexo-demo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <ignored path="$PROJECT_DIR$/../JavaStudy/target/" />
+    <ignored path="$PROJECT_DIR$/../jason-web/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,44 +131,58 @@
     <session id="673062508">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="CNAME" value="1" />
           <entry key="README" value="1" />
+          <entry key="class" value="7" />
+          <entry key="gitignore" value="1" />
           <entry key="ico" value="2" />
+          <entry key="java" value="148" />
           <entry key="json" value="3" />
-          <entry key="md" value="11" />
-          <entry key="xml" value="2" />
+          <entry key="md" value="26" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="11" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="7" />
+          <entry key="Git file" value="1" />
           <entry key="Image" value="2" />
+          <entry key="JAVA" value="148" />
           <entry key="JSON" value="3" />
-          <entry key="Markdown" value="11" />
+          <entry key="Markdown" value="26" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="XML" value="2" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="11" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="README" value="15" />
-          <entry key="md" value="237" />
-          <entry key="xml" value="3" />
+          <entry key="java" value="1992" />
+          <entry key="md" value="315" />
+          <entry key="xml" value="35" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="237" />
+          <entry key="JAVA" value="1992" />
+          <entry key="Markdown" value="315" />
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="XML" value="3" />
+          <entry key="XML" value="35" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -162,94 +194,112 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db.json">
+        <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A1TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="43" selection-start-column="43" selection-end-column="43" />
+            <state relative-caret-position="1368">
+              <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/maupassant/_config.yml">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+            <state relative-caret-position="10488">
+              <caret line="593" column="19" selection-start-line="593" selection-start-column="19" selection-end-line="593" selection-end-column="19" />
+              <folding>
+                <element signature="e#23597#23598#0" expanded="true" />
+                <element signature="e#23651#23652#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/1Hello.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="342">
-                <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A2AddTwoNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/2HelloMarkdown.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1140">
-                <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/3HashMap的循环方式性能对比.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="95">
-                <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/4HashMap不同遍历方式性能比较.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1969">
-                <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/FrameMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#163#164#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/_posts/5技术框架入门.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="280">
-                <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/LombokMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="358">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/entity/UserLombokEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/entity/UserEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1539">
+              <caret line="106" column="14" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
+              <folding>
+                <element signature="e#2496#2497#0" expanded="true" />
+                <element signature="e#2561#2562#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="59052">
+              <caret line="3179" column="26" selection-start-line="3179" selection-start-column="26" selection-end-line="3179" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -264,54 +314,26 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>commons</find>
+      <find>Cglib</find>
+      <find>fastjson</find>
+      <find>fail-fast</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../jason-web" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/thread/MyThread.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/thread/Test.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/guava/GuavaCache.java" />
-        <option value="$PROJECT_DIR$/source/_posts/17Guava初探.md" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/thread/atom/AtomicIntegerCompareTest.java" />
-        <option value="$PROJECT_DIR$/source/_posts/18从Paxos到Zookeeper分布式一致性原理与实践.md" />
-        <option value="$PROJECT_DIR$/source/_posts/20一致性哈希算法.md" />
-        <option value="$PROJECT_DIR$/source/_posts/19一些专业术语解析.md" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/camera/JavacvCameraTest.java" />
-        <option value="$PROJECT_DIR$/source/guestbook/index.md" />
-        <option value="$PROJECT_DIR$/source/_posts/21程序员最核心的竞争力是什么？.md" />
-        <option value="$PROJECT_DIR$/source/_posts/22史上最全的Java-新手问题汇总.md" />
-        <option value="$PROJECT_DIR$/source/_posts/23RPC框架学习.md" />
-        <option value="$PROJECT_DIR$/source/_posts/24大型网站系统与Java中间件实战.md" />
-        <option value="$PROJECT_DIR$/source/_posts/10Temp.md" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/IO/BIOTest.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/IO/BIO/Client.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/IO/BIO/Test.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/IO/BIO/ServerNormal.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/IO/BIO/ServerBetter.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/IO/IOTest.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/IO/NIO/Server.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/IO/NIO/Client.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/IO/NIO/ClientHandle.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/IO/NIO/Test.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/IO/Calculator.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/IO/NIO/ServerHandle.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/IO/BIO/ServerHandler.java" />
-        <option value="$PROJECT_DIR$/source/about/index.md" />
-        <option value="$PROJECT_DIR$/source/history/index.md" />
-        <option value="$PROJECT_DIR$/source/_posts/27web-xml详解.md" />
-        <option value="$PROJECT_DIR$/source/_posts/26Java面试题.md" />
-        <option value="$PROJECT_DIR$/source/_posts/25高并发服务设计——缓存.md" />
-        <option value="$PROJECT_DIR$/source/_posts/28POM文件详解.md" />
         <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/thread/unsafe/CountingProcessor.java" />
         <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/thread/unsafe/UnThreadSafeCountingProcessor.java" />
         <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/thread/unsafe/SynchronizeProcessTest.java" />
         <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/thread/unsafe/ProcessTask.java" />
         <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/normal/Main.java" />
-        <option value="$PROJECT_DIR$/source/_posts/29ni真的了解TCP三次握手么？.md" />
         <option value="$PROJECT_DIR$/source/book/index.md" />
-        <option value="$PROJECT_DIR$/source/_posts/30IntegerCache-ByteCache-CharacterCache-LongCache-ShortCache.md" />
         <option value="$PROJECT_DIR$/source/_posts/31git-ignore.md" />
         <option value="$PROJECT_DIR$/../JavaStudy/pom.xml" />
         <option value="$PROJECT_DIR$/source/_posts/1Hello.md" />
@@ -320,7 +342,43 @@
         <option value="$PROJECT_DIR$/themes/maupassant/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/2HelloMarkdown.md" />
         <option value="$PROJECT_DIR$/source/_posts/3HashMap的循环方式性能对比.md" />
+        <option value="$PROJECT_DIR$/source/_posts/6Paxos算法.md" />
         <option value="$PROJECT_DIR$/source/_posts/5技术框架入门.md" />
+        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/MainTest.java" />
+        <option value="$PROJECT_DIR$/source/_posts/26Java面试题.md" />
+        <option value="$PROJECT_DIR$/source/_posts/29ni真的了解TCP三次握手么？.md" />
+        <option value="$PROJECT_DIR$/source/_posts/30IntegerCache-ByteCache-CharacterCache-LongCache-ShortCache.md" />
+        <option value="$PROJECT_DIR$/source/_posts/32java-web会话管理.md" />
+        <option value="$PROJECT_DIR$/source/_posts/13常见Jar包简介.md" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/JasonRandomUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/JasonObjectUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/JasonArrayUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/JasonNumberUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/JasonSystemUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/JasonDateUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/JasonThreadUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/JasonSerializationUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/Main.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonSerializationUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonThreadUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/JsonTest.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/FastJSONUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/JacksonUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/FastJsonUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/guava/GuavaMain.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/guava/GuavaBasicUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/guava/GuavaOptionalUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/jdk/JdkArrayListMain.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/jdk/JdkMain.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A1_TwoSum.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A1TwoSum.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A2AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/FrameMain.java" />
+        <option value="$PROJECT_DIR$/../jason-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/entity/UserEntity.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/entity/UserEntity.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/entity/UserLombokEntity.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/LombokMain.java" />
       </list>
     </option>
   </component>
@@ -444,6 +502,7 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -454,29 +513,264 @@
           <expand>
             <path>
               <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
+              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="maupassant" type="462c0819:PsiDirectoryNode" />
+              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="meng" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="meng" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="meng" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="meng" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="meng" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="lombok" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="meng" type="462c0819:PsiDirectoryNode" />
+              <item name="jason" type="462c0819:PsiDirectoryNode" />
+              <item name="frame" type="462c0819:PsiDirectoryNode" />
+              <item name="lombok" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="thirdparty" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="google" type="462c0819:PsiDirectoryNode" />
+              <item name="thirdparty" type="462c0819:PsiDirectoryNode" />
+              <item name="publicsuffix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+              <item name="math3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+              <item name="math3" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
+              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+              <item name="commons" type="462c0819:PsiDirectoryNode" />
+              <item name="math3" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -489,16 +783,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543396946339" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543835161621" />
     <property name="editor.config.accepted" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -507,6 +800,12 @@
       <recent name="$PROJECT_DIR$/source/book" />
       <recent name="$PROJECT_DIR$/themes/maupassant/source" />
       <recent name="$PROJECT_DIR$/source" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.meng.jason.frame.lombok.entity" />
+      <recent name="com.meng.jason.tools.jdk" />
+      <recent name="com.meng.jason.tools.json" />
+      <recent name="com.meng.jason.tools" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source" />
@@ -526,7 +825,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.LombokMain">
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -643,13 +942,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AtomicIntegerCompareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meng.Jason.thread.atom.AtomicIntegerCompareTest" />
-      <module name="JavaStudy" />
+    <configuration name="A1TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meng.jason.leetcode.A1TwoSum" />
+      <module name="jason-web" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.meng.Jason.thread.atom.*" />
+          <option name="PATTERN" value="com.meng.jason.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -657,13 +956,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meng.jason.normal.Main" />
-      <module name="JavaStudy" />
+    <configuration name="GuavaOptionalUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meng.jason.tools.guava.GuavaOptionalUtils" />
+      <module name="jason-web" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.meng.jason.normal.*" />
+          <option name="PATTERN" value="com.meng.jason.tools.guava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -671,13 +970,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meng.Jason.IO.BIO.Test" />
-      <module name="JavaStudy" />
+    <configuration name="JdkArrayListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meng.jason.tools.jdk.JdkArrayListMain" />
+      <module name="jason-web" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.meng.Jason.IO.BIO.*" />
+          <option name="PATTERN" value="com.meng.jason.tools.jdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JdkMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meng.jason.tools.jdk.JdkMain" />
+      <module name="jason-web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meng.jason.tools.jdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LombokMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meng.jason.frame.lombok.LombokMain" />
+      <module name="jason-web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meng.jason.frame.lombok.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -726,40 +1053,6 @@
       <setting name="depsClasspath" value="false" />
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2" />
-    </configuration>
-    <configuration name="GuavaCache.CacheTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.meng.Jason.guava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.meng.Jason.guava" />
-      <option name="MAIN_CLASS_NAME" value="com.meng.Jason.guava.GuavaCache" />
-      <option name="METHOD_NAME" value="CacheTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SynchronizeProcessTest.test_UnThreadSafeCountingProcessor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.meng.jason.thread.unsafe.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.meng.jason.thread.unsafe" />
-      <option name="MAIN_CLASS_NAME" value="com.meng.jason.thread.unsafe.SynchronizeProcessTest" />
-      <option name="METHOD_NAME" value="test_UnThreadSafeCountingProcessor" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -828,19 +1121,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.GuavaCache.CacheTest" />
-      <item itemvalue="Application.AtomicIntegerCompareTest" />
-      <item itemvalue="Application.Test (1)" />
-      <item itemvalue="JUnit.SynchronizeProcessTest.test_UnThreadSafeCountingProcessor" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.JdkMain" />
+      <item itemvalue="Application.GuavaOptionalUtils" />
+      <item itemvalue="Application.JdkArrayListMain" />
+      <item itemvalue="Application.A1TwoSum" />
+      <item itemvalue="Application.LombokMain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.SynchronizeProcessTest.test_UnThreadSafeCountingProcessor" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.AtomicIntegerCompareTest" />
-        <item itemvalue="JUnit.GuavaCache.CacheTest" />
+        <item itemvalue="Application.LombokMain" />
+        <item itemvalue="Application.A1TwoSum" />
+        <item itemvalue="Application.JdkMain" />
+        <item itemvalue="Application.JdkArrayListMain" />
+        <item itemvalue="Application.GuavaOptionalUtils" />
       </list>
     </recent_temporary>
   </component>
@@ -941,7 +1234,11 @@
       <workItem from="1535006599469" duration="676000" />
       <workItem from="1535599531921" duration="1595000" />
       <workItem from="1537863055736" duration="14000" />
-      <workItem from="1543387358240" duration="5797000" />
+      <workItem from="1543387358240" duration="9145000" />
+      <workItem from="1543468756652" duration="67000" />
+      <workItem from="1543468846501" duration="28719000" />
+      <workItem from="1543829926744" duration="752000" />
+      <workItem from="1543830825761" duration="1441000" />
     </task>
     <servers />
   </component>
@@ -957,7 +1254,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154015000" />
+    <option name="totallyTimeSpent" value="188342000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -972,22 +1269,21 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25608012" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23319027" />
       <window_info id="Structure" order="1" weight="0.24964234" />
       <window_info id="Designer" order="2" />
       <window_info id="Web" order="3" side_tool="true" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="UI Designer" order="5" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32891566" />
       <window_info anchor="bottom" id="JProfiler" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.30722892" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.30722892" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.24698795" />
-      <window_info anchor="bottom" id="Run" order="5" weight="0.29638556" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.1910828" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.38433734" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.32650602" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32891566" />
@@ -997,8 +1293,7 @@
       <window_info anchor="bottom" id="SonarQube" order="13" />
       <window_info anchor="bottom" id="Spring" order="14" weight="0.32891566" />
       <window_info anchor="bottom" id="SonarLint" order="15" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1007,6 +1302,8 @@
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Mybatis datasource" order="7" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1037,6 +1334,96 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonSerializationUtils.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonSerializationUtils.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonSerializationUtils.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonSerializationUtils.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/JsonTest.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/JsonTest.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/JsonTest.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/JsonTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/jdk/JdkArrayListMain.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
+          <line>850</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
+          <line>519</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
+          <line>899</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A1TwoSum.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A1TwoSum.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A1TwoSum.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1045,401 +1432,400 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_posts/23RPC框架学习.md">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/SerializationUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="176">
+          <caret line="189" column="24" selection-start-line="189" selection-start-column="24" selection-end-line="189" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/22史上最全的Java-新手问题汇总.md">
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonSystemUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="4" selection-end-column="18" />
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/20一致性哈希算法.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="11" selection-start-line="10" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/26Java面试题.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" selection-start-line="8" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/25高并发服务设计——缓存.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/27web-xml详解.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/28POM文件详解.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/19一些专业术语解析.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/18从Paxos到Zookeeper分布式一致性原理与实践.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/2017/03/01/5技术框架入门/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/thread/unsafe/CountingProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/thread/unsafe/UnThreadSafeCountingProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/thread/unsafe/ProcessTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/thread/unsafe/SynchronizeProcessTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/net/Socket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="54" column="38" selection-start-line="54" selection-start-column="38" selection-end-line="54" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/io/Closeable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/normal/Test1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.14.RELEASE/spring-beans-3.2.14.RELEASE-sources.jar!/org/springframework/beans/factory/FactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/3.2.14.RELEASE/spring-context-3.2.14.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ThreadPoolExecutorFactoryBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="133" column="6" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="316" column="49" selection-start-line="316" selection-start-column="49" selection-end-line="316" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/AbstractExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="70" column="62" selection-start-line="70" selection-start-column="62" selection-end-line="70" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/Properties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="388" column="13" selection-start-line="388" selection-start-column="13" selection-end-line="388" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="710" column="27" selection-start-line="710" selection-start-column="27" selection-end-line="710" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/normal/Main.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/29ni真的了解TCP三次握手么？.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/guestbook/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/history/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/about/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/30IntegerCache-ByteCache-CharacterCache-LongCache-ShortCache.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/guava/GuavaCache.java">
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonThreadUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/Hashtable.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/Validate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7486">
-          <caret line="431" column="26" selection-start-line="431" selection-start-column="26" selection-end-line="431" selection-end-column="26" />
+        <state relative-caret-position="-868">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/31git-ignore.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="389">
-            <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonSerializationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaStudy/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.29/fastjson-1.2.29-sources.jar!/com/alibaba/fastjson/JSON.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="75" column="3" lean-forward="true" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="402" column="25" selection-start-line="402" selection-start-column="25" selection-end-line="402" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="101" column="21" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47-sources.jar!/com/alibaba/fastjson/serializer/SerializerFeature.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="157" column="32" lean-forward="true" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47-sources.jar!/com/alibaba/fastjson/JSON.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="739" column="47" lean-forward="true" selection-start-line="739" selection-start-column="47" selection-end-line="739" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47-sources.jar!/com/alibaba/fastjson/serializer/SerializeWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="411" selection-start-line="411" selection-end-line="411" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonDateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="478" column="26" selection-start-line="478" selection-start-column="17" selection-end-line="478" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.4/jackson-databind-2.9.4.jar!/com/fasterxml/jackson/databind/ObjectMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="1215" column="18" selection-start-line="1215" selection-start-column="18" selection-end-line="1215" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4.jar!/com/fasterxml/jackson/core/type/TypeReference.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4-sources.jar!/com/fasterxml/jackson/core/type/TypeReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.4/jackson-databind-2.9.4-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="3233" column="27" selection-start-line="3233" selection-start-column="27" selection-end-line="3233" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/JacksonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/JsonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/FastJsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47-sources.jar!/com/alibaba/fastjson/serializer/SerializeFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/internal/Finalizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/annotations/VisibleForTesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/annotations/Beta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="233" column="17" selection-start-line="233" selection-start-column="17" selection-end-line="233" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="304" column="28" lean-forward="true" selection-start-line="304" selection-start-column="28" selection-end-line="304" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/instrument/TransformerManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="268" selection-start-line="268" selection-end-line="268" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="251" column="13" selection-start-line="251" selection-start-column="13" selection-end-line="251" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/guava/GuavaMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="974" selection-start-line="974" selection-end-line="974" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/guava/GuavaOptionalUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="600" column="28" selection-start-line="600" selection-start-column="28" selection-end-line="600" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="234" column="15" selection-start-line="234" selection-start-column="15" selection-end-line="234" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#54151#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#30684#30685#0" expanded="true" />
+            <element signature="e#30716#30717#0" expanded="true" />
+            <element signature="e#31097#31127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="151" column="16" selection-start-line="151" selection-start-column="16" selection-end-line="151" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/jdk/JdkArrayListMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/jdk/JdkMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="130" column="21" lean-forward="true" selection-start-line="130" selection-start-column="21" selection-end-line="130" selection-end-column="21" />
+        </state>
+      </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A1TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3534">
-          <caret line="186" column="12" selection-start-line="186" selection-start-column="12" selection-end-line="186" selection-end-column="12" />
+        <state relative-caret-position="1368">
+          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/book/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/README">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        <state relative-caret-position="10488">
+          <caret line="593" column="19" selection-start-line="593" selection-start-column="19" selection-end-line="593" selection-end-column="19" />
+          <folding>
+            <element signature="e#23597#23598#0" expanded="true" />
+            <element signature="e#23651#23652#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/32java-web会话管理.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A2AddTwoNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+        <state relative-caret-position="779">
+          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/CNAME">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db.json">
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/FrameMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        <state relative-caret-position="190">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/maupassant/_config.yml">
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/entity/UserEntity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="75" column="8" selection-start-line="75" selection-start-column="8" selection-end-line="75" selection-end-column="8" />
+        <state relative-caret-position="532">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1Hello.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="342">
-            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/2HelloMarkdown.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1140">
-            <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/3HashMap的循环方式性能对比.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="95">
-            <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/4HashMap不同遍历方式性能比较.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1969">
-            <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/MengDexin.xml">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="1539">
+          <caret line="106" column="14" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
+          <folding>
+            <element signature="e#2496#2497#0" expanded="true" />
+            <element signature="e#2561#2562#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/5技术框架入门.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="280">
-            <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59052">
+          <caret line="3179" column="26" selection-start-line="3179" selection-start-column="26" selection-end-line="3179" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/entity/UserLombokEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/LombokMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1449,10 +1835,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>jason-web:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1460,7 +1848,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1483,7 +1871,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1500,6 +1888,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1519,7 +1908,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>hexo-demo node_modules</last-edited>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
