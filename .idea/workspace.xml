@@ -7,111 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01d44daf-b19f-48f4-8151-2fec8f2f9142" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/FrameMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/LombokMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/entity/UserLombokEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/own/IdGenerateUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaStudy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaStudy/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/Jason/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.deploy_git" beforeDir="false" afterPath="$PROJECT_DIR$/.deploy_git" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/dianping/SplitUserId.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/dianping/SplitUserId.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2016/12/09/1Hello/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2016/12/09/1Hello/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/01/19/2HelloMarkdown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/01/19/2HelloMarkdown/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/02/10/3HashMap的循环方式性能对比/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/02/10/3HashMap的循环方式性能对比/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/02/11/4HashMap不同遍历方式性能比较/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/02/11/4HashMap不同遍历方式性能比较/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/03/01/5技术框架入门/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/03/01/5技术框架入门/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/03/07/6Paxos算法/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/03/07/6Paxos算法/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/03/09/7Java技术栈/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/03/09/7Java技术栈/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/05/12/8网络互连参考模型/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/05/12/8网络互连参考模型/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/07/18/10Temp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/07/18/10Temp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/07/18/9Java集合/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/07/18/9Java集合/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/07/19/11面试题/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/07/19/11面试题/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/07/19/12深入理解Java虚拟机知识点/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/07/19/12深入理解Java虚拟机知识点/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/07/19/13常见Jar包简介/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/07/19/13常见Jar包简介/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/07/19/14JAVA反射详解和优化/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/07/19/14JAVA反射详解和优化/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/07/21/15Java编程实战知识点/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/07/21/15Java编程实战知识点/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/07/21/16String-StringBuffer-StringBuilder性能对比/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/07/21/16String-StringBuffer-StringBuilder性能对比/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/07/25/17Guava初探/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/07/25/17Guava初探/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/08/14/18从Paxos到Zookeeper分布式一致性原理与实践/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/08/14/18从Paxos到Zookeeper分布式一致性原理与实践/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/09/15/19一些专业术语解析/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/09/15/19一些专业术语解析/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/09/18/20一致性哈希算法/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/09/18/20一致性哈希算法/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/09/27/21程序员最核心的竞争力是什么？/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/09/27/21程序员最核心的竞争力是什么？/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/09/30/22史上最全的Java-新手问题汇总/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/09/30/22史上最全的Java-新手问题汇总/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/10/12/23RPC框架学习/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/10/12/23RPC框架学习/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/10/12/24大型网站系统与Java中间件实战/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/10/12/24大型网站系统与Java中间件实战/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/10/12/25高并发服务设计——缓存/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/10/12/25高并发服务设计——缓存/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/11/16/26Java面试题/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/11/16/26Java面试题/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/12/27/27web-xml详解/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/12/27/27web-xml详解/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/01/15/28POM文件详解/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/01/15/28POM文件详解/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/07/13/29ni真的了解TCP三次握手么？/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/07/13/29ni真的了解TCP三次握手么？/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/08/30/30IntegerCache-ByteCache-CharacterCache-LongCache-ShortCache/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/08/30/30IntegerCache-ByteCache-CharacterCache-LongCache-ShortCache/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/08/30/31git-ignore/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/08/30/31git-ignore/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2018/08/30/32java-web会话管理/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/08/30/32java-web会话管理/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2016/12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2016/12/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2016/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2016/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/02/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/03/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/05/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/07/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/08/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/08/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/09/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/09/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/10/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/11/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/12/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2018/01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2018/01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2018/07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2018/07/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2018/08/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2018/08/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2018/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2018/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/Book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/Book/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/Guava/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/Guava/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/Java/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/Java/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/RPC/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/RPC/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/Temp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/Temp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/分布式/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/分布式/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/博客技术/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/博客技术/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/技术/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/技术/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/缓存/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/缓存/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/职业规划/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/职业规划/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/计算机网络/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/计算机网络/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/面试/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/面试/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Book/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Java-Guava/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Java-Guava/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Java-JVM-虚拟机/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Java-JVM-虚拟机/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Java-Paxos-Zookeeper/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Java-Paxos-Zookeeper/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Java-专业术语/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Java-专业术语/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Java-对比/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Java-对比/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Java-面试/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Java-面试/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Java/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Java/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Markdown/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Markdown/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Paxos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Paxos/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/RPC/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/RPC/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Tech/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Tech/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/Temp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/Temp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/算法/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/算法/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/缓存-架构/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/缓存-架构/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/计算机网络/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/计算机网络/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/面试-Java/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/面试-Java/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/13常见Jar包简介.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/13常见Jar包简介.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/26Java面试题.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/26Java面试题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/29ni真的了解TCP三次握手么？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/29ni真的了解TCP三次握手么？.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/30IntegerCache-ByteCache-CharacterCache-LongCache-ShortCache.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/30IntegerCache-ByteCache-CharacterCache-LongCache-ShortCache.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/32java-web会话管理.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/32java-web会话管理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/5技术框架入门.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/5技术框架入门.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/6Paxos算法.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/6Paxos算法.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/maupassant" beforeDir="false" afterPath="$PROJECT_DIR$/themes/maupassant" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/maupassant/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/maupassant/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jason-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jason-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/Main.java" afterDir="false" />
     </list>
     <ignored path="hexo-demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -131,58 +34,60 @@
     <session id="673062508">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="CNAME" value="1" />
           <entry key="README" value="1" />
-          <entry key="class" value="7" />
+          <entry key="class" value="8" />
           <entry key="gitignore" value="1" />
           <entry key="ico" value="2" />
-          <entry key="java" value="148" />
+          <entry key="java" value="206" />
           <entry key="json" value="3" />
           <entry key="md" value="26" />
           <entry key="properties" value="1" />
-          <entry key="xml" value="11" />
+          <entry key="xml" value="13" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="7" />
+          <entry key="CLASS" value="8" />
           <entry key="Git file" value="1" />
           <entry key="Image" value="2" />
-          <entry key="JAVA" value="148" />
+          <entry key="JAVA" value="206" />
           <entry key="JSON" value="3" />
           <entry key="Markdown" value="26" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="1" />
-          <entry key="XML" value="11" />
+          <entry key="XML" value="13" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="README" value="15" />
-          <entry key="java" value="1992" />
+          <entry key="java" value="3774" />
           <entry key="md" value="315" />
-          <entry key="xml" value="35" />
+          <entry key="xml" value="40" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1992" />
+          <entry key="JAVA" value="3774" />
           <entry key="Markdown" value="315" />
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="XML" value="35" />
+          <entry key="XML" value="40" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -194,112 +99,69 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A1TwoSum.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/BinaryJedis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1368">
-              <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
+            <state relative-caret-position="474">
+              <caret line="1755" column="17" selection-start-line="1755" selection-start-column="17" selection-end-line="1755" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/own/IdGenerateUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10488">
-              <caret line="593" column="19" selection-start-line="593" selection-start-column="19" selection-end-line="593" selection-end-column="19" />
-              <folding>
-                <element signature="e#23597#23598#0" expanded="true" />
-                <element signature="e#23651#23652#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A2AddTwoNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/FrameMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#1365#1366#0" expanded="true" />
+                <element signature="e#1407#1408#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/LombokMain.java">
+        <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="133">
+              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/entity/UserLombokEntity.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/BufferedReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="142">
+              <caret line="387" column="18" selection-start-line="387" selection-start-column="18" selection-end-line="387" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/entity/UserEntity.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/OutputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="135">
+              <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Iterator.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1539">
-              <caret line="106" column="14" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
-              <folding>
-                <element signature="e#2496#2497#0" expanded="true" />
-                <element signature="e#2561#2562#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59052">
-              <caret line="3179" column="26" selection-start-line="3179" selection-start-column="26" selection-end-line="3179" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+            <state relative-caret-position="327">
+              <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -328,20 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/thread/unsafe/CountingProcessor.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/thread/unsafe/UnThreadSafeCountingProcessor.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/thread/unsafe/SynchronizeProcessTest.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/thread/unsafe/ProcessTask.java" />
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/normal/Main.java" />
-        <option value="$PROJECT_DIR$/source/book/index.md" />
-        <option value="$PROJECT_DIR$/source/_posts/31git-ignore.md" />
-        <option value="$PROJECT_DIR$/../JavaStudy/pom.xml" />
-        <option value="$PROJECT_DIR$/source/_posts/1Hello.md" />
-        <option value="$PROJECT_DIR$/source/README" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/themes/maupassant/_config.yml" />
-        <option value="$PROJECT_DIR$/source/_posts/2HelloMarkdown.md" />
-        <option value="$PROJECT_DIR$/source/_posts/3HashMap的循环方式性能对比.md" />
         <option value="$PROJECT_DIR$/source/_posts/6Paxos算法.md" />
         <option value="$PROJECT_DIR$/source/_posts/5技术框架入门.md" />
         <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/MainTest.java" />
@@ -358,7 +206,6 @@
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/JasonDateUtils.java" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/JasonThreadUtils.java" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/JasonSerializationUtils.java" />
-        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/Main.java" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonSerializationUtils.java" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonThreadUtils.java" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/JsonTest.java" />
@@ -372,13 +219,28 @@
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/jdk/JdkMain.java" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A1_TwoSum.java" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A1TwoSum.java" />
-        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A2AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/FrameMain.java" />
-        <option value="$PROJECT_DIR$/../jason-web/pom.xml" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/entity/UserEntity.java" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/entity/UserEntity.java" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/entity/UserLombokEntity.java" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/LombokMain.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A2AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A0LeetCodeMain.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A3LongestSubstringWithoutRepeatingCharacters.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A4MedianOfTwoSortedArrays.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/zookeeper/ZookeeperMain.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/redis/RedisMain.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/java/JavaMain.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/spring/SpringMain.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/spring/ioc/IocMain.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/spring/aop/AopMain.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/mybatis/MybatisMain.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/jason.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/own/BeanUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/Main.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/own/IdGenerateUtils.java" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/Main.java" />
       </list>
     </option>
   </component>
@@ -424,8 +286,9 @@
     <entry key="Project Default">
       <profile-state>
         <expanded-state>
+          <State />
           <State>
-            <id />
+            <id>Ali-Check</id>
           </State>
           <State>
             <id>Code style issuesJava</id>
@@ -434,13 +297,7 @@
             <id>Compiler issuesJava</id>
           </State>
           <State>
-            <id>Finalization issuesJava</id>
-          </State>
-          <State>
             <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>GeneralScala</id>
           </State>
           <State>
             <id>Groovy</id>
@@ -450,9 +307,6 @@
           </State>
           <State>
             <id>J2ME issuesJava</id>
-          </State>
-          <State>
-            <id>JSP Inspections</id>
           </State>
           <State>
             <id>Java</id>
@@ -476,16 +330,7 @@
             <id>OtherGroovy</id>
           </State>
           <State>
-            <id>Performance issuesJava</id>
-          </State>
-          <State>
             <id>Probable bugsJava</id>
-          </State>
-          <State>
-            <id>Scala</id>
-          </State>
-          <State>
-            <id>Security issuesJava</id>
           </State>
           <State>
             <id>Serialization issuesJava</id>
@@ -494,6 +339,11 @@
             <id>Verbose or redundant code constructsJava</id>
           </State>
         </expanded-state>
+        <selected-state>
+          <State>
+            <id>AlibabaThreadPoolCreation</id>
+          </State>
+        </selected-state>
       </profile-state>
     </entry>
   </component>
@@ -506,8 +356,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -539,25 +387,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="meng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="meng" type="462c0819:PsiDirectoryNode" />
               <item name="jason" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -566,10 +395,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="meng" type="462c0819:PsiDirectoryNode" />
               <item name="jason" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -577,35 +404,9 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="meng" type="462c0819:PsiDirectoryNode" />
               <item name="jason" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="meng" type="462c0819:PsiDirectoryNode" />
-              <item name="jason" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="lombok" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jason-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="meng" type="462c0819:PsiDirectoryNode" />
-              <item name="jason" type="462c0819:PsiDirectoryNode" />
-              <item name="frame" type="462c0819:PsiDirectoryNode" />
-              <item name="lombok" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+              <item name="own" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -635,7 +436,7 @@
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
@@ -651,49 +452,6 @@
             <path>
               <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="google" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="google" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="google" type="462c0819:PsiDirectoryNode" />
-              <item name="thirdparty" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: com.google.guava:guava:19.0" type="70bed36:NamedLibraryElementNode" />
-              <item name="guava-19.0.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="google" type="462c0819:PsiDirectoryNode" />
-              <item name="thirdparty" type="462c0819:PsiDirectoryNode" />
-              <item name="publicsuffix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
@@ -701,81 +459,13 @@
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
               <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="apache" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="apache" type="462c0819:PsiDirectoryNode" />
-              <item name="commons" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="apache" type="462c0819:PsiDirectoryNode" />
-              <item name="commons" type="462c0819:PsiDirectoryNode" />
-              <item name="math3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="apache" type="462c0819:PsiDirectoryNode" />
-              <item name="commons" type="462c0819:PsiDirectoryNode" />
-              <item name="math3" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.apache.commons:commons-math3:3.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="commons-math3-3.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="org" type="462c0819:PsiDirectoryNode" />
-              <item name="apache" type="462c0819:PsiDirectoryNode" />
-              <item name="commons" type="462c0819:PsiDirectoryNode" />
-              <item name="math3" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -783,7 +473,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543835161621" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544369319915" />
     <property name="editor.config.accepted" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -791,26 +481,27 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source" />
+      <recent name="$PROJECT_DIR$/themes/maupassant/source" />
+      <recent name="$PROJECT_DIR$/themes" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.meng.jason.leetcode" />
+      <recent name="com.meng.jason.frame.lombok.entity" />
+      <recent name="com.meng.jason.tools.jdk" />
+      <recent name="com.meng.jason.tools.json" />
+      <recent name="com.meng.jason.tools" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/history" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/source/book" />
       <recent name="$PROJECT_DIR$/themes/maupassant/source" />
       <recent name="$PROJECT_DIR$/source" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.meng.jason.frame.lombok.entity" />
-      <recent name="com.meng.jason.tools.jdk" />
-      <recent name="com.meng.jason.tools.json" />
-      <recent name="com.meng.jason.tools" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source" />
-      <recent name="$PROJECT_DIR$/themes/maupassant/source" />
-      <recent name="$PROJECT_DIR$/themes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -825,7 +516,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LombokMain">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -942,13 +633,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="A1TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meng.jason.leetcode.A1TwoSum" />
+    <configuration name="IdGenerateUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meng.jason.tools.own.IdGenerateUtils" />
       <module name="jason-web" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.meng.jason.leetcode.*" />
+          <option name="PATTERN" value="com.meng.jason.tools.own.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -956,13 +647,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GuavaOptionalUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meng.jason.tools.guava.GuavaOptionalUtils" />
+    <configuration name="JavaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meng.jason.java.JavaMain" />
       <module name="jason-web" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.meng.jason.tools.guava.*" />
+          <option name="PATTERN" value="com.meng.jason.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -970,13 +661,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdkArrayListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meng.jason.tools.jdk.JdkArrayListMain" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meng.jason.tools.Main" />
       <module name="jason-web" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.meng.jason.tools.jdk.*" />
+          <option name="PATTERN" value="com.meng.jason.tools.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -984,13 +675,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JdkMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meng.jason.tools.jdk.JdkMain" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meng.jason.Main" />
       <module name="jason-web" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.meng.jason.tools.jdk.*" />
+          <option name="PATTERN" value="com.meng.jason.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -998,13 +689,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LombokMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meng.jason.frame.lombok.LombokMain" />
+    <configuration name="RedisMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.meng.jason.frame.redis.RedisMain" />
       <module name="jason-web" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.meng.jason.frame.lombok.*" />
+          <option name="PATTERN" value="com.meng.jason.frame.redis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1121,19 +812,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.JdkMain" />
-      <item itemvalue="Application.GuavaOptionalUtils" />
-      <item itemvalue="Application.JdkArrayListMain" />
-      <item itemvalue="Application.A1TwoSum" />
-      <item itemvalue="Application.LombokMain" />
+      <item itemvalue="Application.RedisMain" />
+      <item itemvalue="Application.JavaMain" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.IdGenerateUtils" />
+      <item itemvalue="Application.Main (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LombokMain" />
-        <item itemvalue="Application.A1TwoSum" />
-        <item itemvalue="Application.JdkMain" />
-        <item itemvalue="Application.JdkArrayListMain" />
-        <item itemvalue="Application.GuavaOptionalUtils" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.IdGenerateUtils" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.JavaMain" />
+        <item itemvalue="Application.RedisMain" />
       </list>
     </recent_temporary>
   </component>
@@ -1238,7 +929,10 @@
       <workItem from="1543468756652" duration="67000" />
       <workItem from="1543468846501" duration="28719000" />
       <workItem from="1543829926744" duration="752000" />
-      <workItem from="1543830825761" duration="1441000" />
+      <workItem from="1543830825761" duration="13887000" />
+      <workItem from="1543913825072" duration="4483000" />
+      <workItem from="1544075614171" duration="1981000" />
+      <workItem from="1544172025495" duration="4469000" />
     </task>
     <servers />
   </component>
@@ -1254,7 +948,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188342000" />
+    <option name="totallyTimeSpent" value="211721000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1267,9 +961,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23319027" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20958512" />
       <window_info id="Structure" order="1" weight="0.24964234" />
       <window_info id="Designer" order="2" />
       <window_info id="Web" order="3" side_tool="true" />
@@ -1282,7 +975,7 @@
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.30722892" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.24698795" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.38433734" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.45421687" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.32650602" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -1390,21 +1083,9 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
-          <line>850</line>
-          <properties />
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
           <line>519</line>
           <properties />
           <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java</url>
-          <line>899</line>
-          <properties />
-          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A1TwoSum.java</url>
@@ -1424,6 +1105,56 @@
           <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A3LongestSubstringWithoutRepeatingCharacters.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/own/IdGenerateUtils.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/own/IdGenerateUtils.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/own/IdGenerateUtils.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/own/IdGenerateUtils.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/own/IdGenerateUtils.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java</url>
+          <line>358</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A2AddTwoNumbers.java</url>
+          <line>28</line>
+          <properties class="com.meng.jason.leetcode.A2AddTwoNumbers" method="addTwoNumbers">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1432,351 +1163,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/SerializationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="189" column="24" selection-start-line="189" selection-start-column="24" selection-end-line="189" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonSystemUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonThreadUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1-sources.jar!/org/apache/commons/lang3/Validate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-868">
-          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonSerializationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.29/fastjson-1.2.29-sources.jar!/com/alibaba/fastjson/JSON.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="75" column="3" lean-forward="true" selection-start-line="75" selection-start-column="3" selection-end-line="75" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47.jar!/com/alibaba/fastjson/JSON.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="402" column="25" selection-start-line="402" selection-start-column="25" selection-end-line="402" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Enum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="101" column="21" selection-start-line="101" selection-start-column="21" selection-end-line="101" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47-sources.jar!/com/alibaba/fastjson/serializer/SerializerFeature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="157" column="32" lean-forward="true" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47-sources.jar!/com/alibaba/fastjson/JSON.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="739" column="47" lean-forward="true" selection-start-line="739" selection-start-column="47" selection-end-line="739" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47-sources.jar!/com/alibaba/fastjson/serializer/SerializeWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/text/SimpleDateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="411" selection-start-line="411" selection-end-line="411" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonDateUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="478" column="26" selection-start-line="478" selection-start-column="17" selection-end-line="478" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.4/jackson-databind-2.9.4.jar!/com/fasterxml/jackson/databind/ObjectMapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="1215" column="18" selection-start-line="1215" selection-start-column="18" selection-end-line="1215" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4.jar!/com/fasterxml/jackson/core/type/TypeReference.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.9.4/jackson-core-2.9.4-sources.jar!/com/fasterxml/jackson/core/type/TypeReference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.4/jackson-databind-2.9.4-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="3233" column="27" selection-start-line="3233" selection-start-column="27" selection-end-line="3233" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/JacksonUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/JsonTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/json/FastJsonUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.47/fastjson-1.2.47-sources.jar!/com/alibaba/fastjson/serializer/SerializeFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/internal/Finalizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/annotations/VisibleForTesting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/annotations/Beta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/Strings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="233" column="17" selection-start-line="233" selection-start-column="17" selection-end-line="233" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="304" column="28" lean-forward="true" selection-start-line="304" selection-start-column="28" selection-end-line="304" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/instrument/TransformerManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar!/sun/instrument/InstrumentationImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="268" selection-start-line="268" selection-end-line="268" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="251" column="13" selection-start-line="251" selection-start-column="13" selection-end-line="251" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/guava/GuavaMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="974" selection-start-line="974" selection-end-line="974" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/guava/GuavaOptionalUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="600" column="28" selection-start-line="600" selection-start-column="28" selection-end-line="600" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="234" column="15" selection-start-line="234" selection-start-column="15" selection-end-line="234" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#54151#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="e#6252#6253#0" expanded="true" />
-            <element signature="e#6320#6321#0" expanded="true" />
-            <element signature="e#30684#30685#0" expanded="true" />
-            <element signature="e#30716#30717#0" expanded="true" />
-            <element signature="e#31097#31127#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="151" column="16" selection-start-line="151" selection-start-column="16" selection-end-line="151" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-71">
-          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/jdk/JdkArrayListMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/jdk/JdkMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="130" column="21" lean-forward="true" selection-start-line="130" selection-start-column="21" selection-end-line="130" selection-end-column="21" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A1TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="73" column="13" selection-start-line="73" selection-start-column="13" selection-end-line="73" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10488">
-          <caret line="593" column="19" selection-start-line="593" selection-start-column="19" selection-end-line="593" selection-end-column="19" />
-          <folding>
-            <element signature="e#23597#23598#0" expanded="true" />
-            <element signature="e#23651#23652#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A2AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" column="28" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/FrameMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/entity/UserEntity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -1788,17 +1174,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1539">
           <caret line="106" column="14" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
-          <folding>
-            <element signature="e#2496#2497#0" expanded="true" />
-            <element signature="e#2561#2562#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59052">
-          <caret line="3179" column="26" selection-start-line="3179" selection-start-column="26" selection-end-line="3179" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1813,19 +1188,369 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/LombokMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/zookeeper/ZookeeperMain.java" />
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A0LeetCodeMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="1263" column="7" lean-forward="true" selection-start-line="1263" selection-start-column="7" selection-end-line="1263" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A3LongestSubstringWithoutRepeatingCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="48" column="24" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A2AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#1389#1390#0" expanded="true" />
+            <element signature="e#1471#1472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0.jar!/redis/clients/jedis/Jedis.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisCommands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-489">
+          <caret line="100" column="7" selection-start-line="100" selection-start-column="7" selection-end-line="100" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/exceptions/JedisException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/exceptions/InvalidURIException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/params/geo/GeoRadiusParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/params/sortedset/ZAddParams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A1TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/lombok/LombokMain.java">
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/redis/RedisMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        <state relative-caret-position="475">
+          <caret line="29" column="31" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/Jedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/util/Slowlog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/FrameMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/mybatis/MybatisMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/spring/ioc/IocMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/jason.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/IllegalArgumentException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+          <folding>
+            <element signature="e#828#829#0" expanded="true" />
+            <element signature="e#852#853#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/spring/SpringMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/commons/JasonArrayUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.17.RELEASE/spring-beans-4.3.17.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10754">
+          <caret line="603" column="74" selection-start-line="603" selection-end-line="604" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/spring/aop/AopMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/leetcode/A4MedianOfTwoSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/java/JavaMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="907" column="21" selection-start-line="907" selection-start-column="21" selection-end-line="907" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#54151#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#30684#30685#0" expanded="true" />
+            <element signature="e#30716#30717#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/own/BeanUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="52" column="54" selection-start-line="52" selection-start-column="54" selection-end-line="52" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="3797" column="4" selection-start-line="3797" selection-start-column="4" selection-end-line="3797" selection-end-column="4" />
+          <folding>
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.17.RELEASE/spring-beans-4.3.17.RELEASE-sources.jar!/org/springframework/beans/BeansException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.17.RELEASE/spring-core-4.3.17.RELEASE-sources.jar!/org/springframework/util/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="131" column="23" selection-start-line="131" selection-start-column="23" selection-end-line="131" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/BinaryJedis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="1755" column="17" selection-start-line="1755" selection-start-column="17" selection-end-line="1755" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="316" column="13" selection-start-line="316" selection-start-column="13" selection-end-line="316" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ScheduledThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="121" column="28" selection-start-line="121" selection-start-column="28" selection-end-line="121" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentLinkedQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4951">
+          <caret line="355" column="17" selection-start-line="355" selection-start-column="13" selection-end-line="355" selection-end-column="17" />
+          <folding>
+            <element signature="e#7928#7929#0" expanded="true" />
+            <element signature="e#8014#8015#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicLong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="217" column="22" selection-start-line="217" selection-start-column="22" selection-end-line="217" selection-end-column="22" />
+          <folding>
+            <element signature="e#5786#5787#0" expanded="true" />
+            <element signature="e#5863#5864#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="300" column="30" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/own/IdGenerateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+            <element signature="e#1407#1408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/OutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="387" column="18" selection-start-line="387" selection-start-column="18" selection-end-line="387" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
         </state>
       </provider>
     </entry>
