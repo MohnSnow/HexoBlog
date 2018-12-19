@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jasonlife.top/"/>
-  <updated>2018-08-30T09:45:23.779Z</updated>
+  <updated>2018-11-29T03:53:15.979Z</updated>
   <id>http://jasonlife.top/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>32java web会话管理</title>
+    <title>java web会话管理</title>
     <link href="http://jasonlife.top/2018/08/30/32java-web%E4%BC%9A%E8%AF%9D%E7%AE%A1%E7%90%86/"/>
     <id>http://jasonlife.top/2018/08/30/32java-web会话管理/</id>
     <published>2018-08-30T09:45:23.000Z</published>
-    <updated>2018-08-30T09:45:23.779Z</updated>
+    <updated>2018-11-29T03:53:15.979Z</updated>
     
     <summary type="html">
     
@@ -51,11 +51,11 @@
   </entry>
   
   <entry>
-    <title>30IntegerCache ByteCache CharacterCache LongCache ShortCache</title>
+    <title>IntegerCache ByteCache CharacterCache LongCache ShortCache</title>
     <link href="http://jasonlife.top/2018/08/30/30IntegerCache-ByteCache-CharacterCache-LongCache-ShortCache/"/>
     <id>http://jasonlife.top/2018/08/30/30IntegerCache-ByteCache-CharacterCache-LongCache-ShortCache/</id>
     <published>2018-08-30T03:25:56.000Z</published>
-    <updated>2018-08-30T03:27:29.779Z</updated>
+    <updated>2018-11-29T03:53:15.976Z</updated>
     
     <content type="html"><![CDATA[<p>new Integer(1) 与 Integer.valueOf(1) 的区别</p>
 <p>使用 Integer.valueOf(1) 可以使用系统缓存，既减少可能的内存占用，也省去了频繁创建对象的开销。</p>
@@ -76,11 +76,11 @@
   </entry>
   
   <entry>
-    <title>29ni真的了解TCP三次握手么？</title>
+    <title>ni真的了解TCP三次握手么？</title>
     <link href="http://jasonlife.top/2018/07/13/29ni%E7%9C%9F%E7%9A%84%E4%BA%86%E8%A7%A3TCP%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E4%B9%88%EF%BC%9F/"/>
     <id>http://jasonlife.top/2018/07/13/29ni真的了解TCP三次握手么？/</id>
     <published>2018-07-13T02:27:40.000Z</published>
-    <updated>2018-07-13T02:28:05.790Z</updated>
+    <updated>2018-11-29T03:53:15.971Z</updated>
     
     <content type="html"><![CDATA[<p>先来回顾下三次握手里面涉及到的问题:</p>
 <ol>
@@ -236,11 +236,11 @@
   </entry>
   
   <entry>
-    <title>26Java面试题</title>
+    <title>Java面试题</title>
     <link href="http://jasonlife.top/2017/11/16/26Java%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
     <id>http://jasonlife.top/2017/11/16/26Java面试题/</id>
     <published>2017-11-16T06:49:51.000Z</published>
-    <updated>2018-01-16T03:35:05.954Z</updated>
+    <updated>2018-12-13T09:16:57.057Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Java面试资源"><a href="#Java面试资源" class="headerlink" title="Java面试资源"></a>Java面试资源</h1><p>这里汇总整理了网络上的Java面试题，持续更新<br><a id="more"></a></p>
 <h2 id="基本概念"><a href="#基本概念" class="headerlink" title="基本概念"></a>基本概念</h2><ul>
@@ -1073,6 +1073,9 @@
 </ul>
 <h2 id="日期"><a href="#日期" class="headerlink" title="日期"></a>日期</h2><ul>
 <li>计算两个日期之间的差距</li>
+</ul>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><ul>
+<li>mysql表数据压缩</li>
 </ul>
 ]]></content>
     
@@ -1987,13 +1990,16 @@ public void mouseDragged(MouseEvent e)
     <link href="http://jasonlife.top/2017/07/19/13%E5%B8%B8%E8%A7%81Jar%E5%8C%85%E7%AE%80%E4%BB%8B/"/>
     <id>http://jasonlife.top/2017/07/19/13常见Jar包简介/</id>
     <published>2017-07-19T03:22:40.000Z</published>
-    <updated>2017-07-21T08:49:01.000Z</updated>
+    <updated>2018-11-29T03:53:15.985Z</updated>
     
-    <content type="html"><![CDATA[<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">了解一些Jar包的功能,分析部分类</div></pre></td></tr></table></figure>
-<h4 id="rt-jar"><a href="#rt-jar" class="headerlink" title="rt.jar"></a>rt.jar</h4><h5 id="package-java-util"><a href="#package-java-util" class="headerlink" title="package java.util;"></a>package java.util;</h5><h4 id="javax-servlet-servlet-api"><a href="#javax-servlet-servlet-api" class="headerlink" title="javax.servlet:servlet-api"></a>javax.servlet:servlet-api</h4><ol>
-<li><a href="http://tomcat.apache.org/tomcat-5.5-doc/servletapi/index.html" target="_blank" rel="external">http://tomcat.apache.org/tomcat-5.5-doc/servletapi/index.html</a><br>2.</li>
-</ol>
-]]></content>
+    <content type="html"><![CDATA[<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">了解一些Jar包的功能,分析部分类的功能</div></pre></td></tr></table></figure>
+<h4 id="rt-jar"><a href="#rt-jar" class="headerlink" title="rt.jar"></a>rt.jar</h4><ul>
+<li>java.util;</li>
+</ul>
+<h4 id="javax-servlet-servlet-api"><a href="#javax-servlet-servlet-api" class="headerlink" title="javax.servlet:servlet-api"></a>javax.servlet:servlet-api</h4><ul>
+<li><a href="http://tomcat.apache.org/tomcat-5.5-doc/servletapi/index.html" target="_blank" rel="external">http://tomcat.apache.org/tomcat-5.5-doc/servletapi/index.html</a></li>
+</ul>
+<h4 id="commons-lang"><a href="#commons-lang" class="headerlink" title="commons-lang"></a>commons-lang</h4><figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></div><div class="line">            <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>commons-lang<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></div><div class="line">            <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>commons-lang<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></div><div class="line">            <span class="tag">&lt;<span class="name">version</span>&gt;</span>3.8.1<span class="tag">&lt;/<span class="name">version</span>&gt;</span></div><div class="line">        <span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></div></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     

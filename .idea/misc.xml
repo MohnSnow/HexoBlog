@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/../JavaStudy/pom.xml" />
         <option value="$PROJECT_DIR$/../jason-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../dubbo/pom.xml" />
       </list>
     </option>
   </component>
