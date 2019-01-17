@@ -23,6 +23,10 @@ git commit -m 'update .gitignore'
 
 新的项目需要配置一下,否则不会计入贡献
 ```
+ 这个是全局的：
  git config --global user.name "MohnSnow"
  git config --global user.email "mengdexin_work@163.com"
+ 非全局的：
+ git config user.name "MohnSnow"
+ git config user.email "mengdexin_work@163.com"
 ```
