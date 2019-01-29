@@ -6,7 +6,7 @@ categories: "博客技术"
 toc: true
 ---
 原来一直在CSDN搞自己的博客,后来了解到github可以搭建静态博客,可以自己定制主题,非常酷炫,索性就动起来。
-我的网站:http://jasonlife.top/
+我的网站:https://www.biubiu1024.com/
 <!--more-->
 #### 一、HEXO命令
 1. hexo new "postName" -> 新建文章
