@@ -53,6 +53,7 @@
       <change beforePath="$PROJECT_DIR$/public/2018/08/30/32java-web会话管理/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2018/08/30/32java-web会话管理/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/2019/01/17/33限流算法/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2019/01/17/33限流算法/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/2019/01/29/34够级规则/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2019/01/29/34够级规则/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/public/CNAME" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/archives/2016/12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2016/12/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/archives/2016/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2016/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/archives/2017/01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/01/index.html" afterDir="false" />
@@ -75,7 +76,6 @@
       <change beforePath="$PROJECT_DIR$/public/archives/2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2019/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/archives/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/atom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/atom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/Book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/Book/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/Guava/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/Guava/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/Java/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/Java/index.html" afterDir="false" />
@@ -112,6 +112,7 @@
       <change beforePath="$PROJECT_DIR$/themes/maupassant/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/maupassant/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/study/leetcode/A146LruCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/study/leetcode/A146LruCache.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/study/sword/Sword09Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/study/sword/Sword09Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jason-web/src/main/webapp/WEB-INF/static/views/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../jason-web/src/main/webapp/WEB-INF/static/views/about.html" afterDir="false" />
     </list>
     <ignored path="hexo-demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -208,7 +209,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="CNAME" value="1" />
+          <entry key="CNAME" value="2" />
           <entry key="ClassPathXmlApplicationContext" value="3" />
           <entry key="Entry" value="1" />
           <entry key="Filter" value="1" />
@@ -216,11 +217,11 @@
           <entry key="NOTICE" value="1" />
           <entry key="Protocol" value="1" />
           <entry key="ProxyFactory" value="1" />
-          <entry key="README" value="3" />
+          <entry key="README" value="4" />
           <entry key="class" value="33" />
           <entry key="cmd" value="1" />
           <entry key="gitignore" value="2" />
-          <entry key="html" value="1" />
+          <entry key="html" value="2" />
           <entry key="ico" value="2" />
           <entry key="iml" value="1" />
           <entry key="java" value="576" />
@@ -231,7 +232,7 @@
           <entry key="mvnw" value="1" />
           <entry key="properties" value="4" />
           <entry key="tree" value="1" />
-          <entry key="xml" value="46" />
+          <entry key="xml" value="47" />
           <entry key="xsd" value="1" />
           <entry key="yml" value="4" />
         </counts>
@@ -240,16 +241,16 @@
         <counts>
           <entry key="CLASS" value="33" />
           <entry key="Git file" value="2" />
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="2" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="4" />
           <entry key="JAVA" value="576" />
           <entry key="JSON" value="5" />
           <entry key="Markdown" value="57" />
-          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="PLAIN_TEXT" value="15" />
           <entry key="Properties" value="4" />
           <entry key="UML" value="4" />
-          <entry key="XML" value="47" />
+          <entry key="XML" value="48" />
           <entry key="YAML" value="4" />
         </counts>
       </usages-collector>
@@ -291,27 +292,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/CNAME">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db.json">
+        <entry file="file://$PROJECT_DIR$/public/atom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3980">
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -319,7 +319,16 @@
         <entry file="file://$PROJECT_DIR$/.deploy_git/README">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+              <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -328,28 +337,16 @@
         <entry file="file://$PROJECT_DIR$/source/README">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/5技术框架入门.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="95">
-                <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="9" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -358,8 +355,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/1Hello.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <first_editor relative-caret-position="148">
+                <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
               </first_editor>
               <second_editor />
             </state>
@@ -369,8 +366,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../jason-web/src/main/webapp/WEB-INF/static/views/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="99" column="53" selection-start-line="99" selection-start-column="53" selection-end-line="99" selection-end-column="53" />
+            <state relative-caret-position="130">
+              <caret line="99" column="76" selection-start-line="99" selection-start-column="76" selection-end-line="99" selection-end-column="76" />
               <folding>
                 <element signature="e#5320#5326#0" expanded="true" />
               </folding>
@@ -418,8 +415,8 @@
       <find>DEFAULT_TAG</find>
       <find>TestApplicationListener</find>
       <find>ServletInitListener</find>
-      <find>第三章</find>
       <find>jasonlife.top</find>
+      <find>第三章</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -428,13 +425,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../JavaStudy/src/main/java/com/meng/jason/util/GenerateIdUtil.java" />
-        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/tools/GenerateIdUtil.java" />
-        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/spring/context/SpringContextMain.java" />
-        <option value="$PROJECT_DIR$/../jason-web/pom.xml" />
-        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/netty/HttpServer.java" />
-        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/netty/HttpHandler.java" />
-        <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/netty/NettyMain.java" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/netty/demo/HttpServer.java" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/netty/demo/HttpHandler.java" />
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/netty/java/io/IOServer.java" />
@@ -479,6 +469,13 @@
         <option value="$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/frame/servlet/ExceptionHandler.java" />
         <option value="$PROJECT_DIR$/source/_posts/33限流算法.md" />
         <option value="$PROJECT_DIR$/source/_posts/34够级规则.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/source/_posts/1Hello.md" />
+        <option value="$PROJECT_DIR$/../jason-web/src/main/webapp/WEB-INF/static/views/about.html" />
+        <option value="$PROJECT_DIR$/.deploy_git/README" />
+        <option value="$PROJECT_DIR$/public/README" />
+        <option value="$PROJECT_DIR$/source/README" />
+        <option value="$PROJECT_DIR$/public/CNAME" />
       </list>
     </option>
   </component>
@@ -615,6 +612,16 @@
               <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="hexo-demo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hexo-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hexo-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="source" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -627,7 +634,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548755207767" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548756653822" />
     <property name="editor.config.accepted" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -1196,7 +1203,7 @@
       <workItem from="1548243238260" duration="1968000" />
       <workItem from="1548317603413" duration="4662000" />
       <workItem from="1548431992489" duration="2685000" />
-      <workItem from="1548748216497" duration="2466000" />
+      <workItem from="1548748216497" duration="3060000" />
     </task>
     <servers />
   </component>
@@ -1233,7 +1240,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="358868000" />
+    <option name="totallyTimeSpent" value="359462000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1259,8 +1266,8 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32891566" />
       <window_info anchor="bottom" id="JProfiler" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32168674" />
-      <window_info anchor="bottom" id="Find" order="4" visible="true" weight="0.4433735" />
+      <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32168674" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.4433735" />
       <window_info anchor="bottom" id="Run" order="5" weight="0.35421687" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.25180724" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
@@ -1684,34 +1691,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="105" column="13" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.5/log4j-core-2.5-sources.jar!/org/apache/logging/log4j/core/LifeCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/study/leetcode/A000LeetCodeMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/study/leetcode/A300LongestIncreasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../jason-web/src/main/java/com/meng/jason/study/leetcode/A133CloneGraph.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1102">
@@ -2038,50 +2017,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/34够级规则.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.deploy_git/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/1Hello.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/webapp/WEB-INF/static/views/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="99" column="53" selection-start-line="99" selection-start-column="53" selection-end-line="99" selection-end-column="53" />
-          <folding>
-            <element signature="e#5320#5326#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -2093,7 +2028,7 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
-          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -2102,8 +2037,76 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="158">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/1Hello.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="148">
+            <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jason-web/src/main/webapp/WEB-INF/static/views/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="99" column="76" selection-start-line="99" selection-start-column="76" selection-end-line="99" selection-end-column="76" />
+          <folding>
+            <element signature="e#5320#5326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.deploy_git/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/34够级规则.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/atom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3980">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
